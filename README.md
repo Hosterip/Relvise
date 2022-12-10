@@ -1,2 +1,2 @@
-# hosteripfirstProject.github.io-
+# hosteripfirstProject.github.io
 firstProject
