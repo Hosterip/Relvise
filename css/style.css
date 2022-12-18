@@ -266,7 +266,7 @@ body {
 
 @media (max-width: 479px) {
   .mainblock__button {
-    flex: 1 1 auto;
+    flex: 1 1 100%;
   }
   .mainblock__button:not(:last-child) {
     margin-right: 0px;
